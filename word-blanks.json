@@ -1,0 +1,3 @@
+{
+  "index.js": "var myNoun = \"dog\";\nvar myAdjective = \"big\";\nvar myVerb = \"ran\";\nvar myAdverb = \"quickly\";\n\nvar myNoun = \"dog\";\nvar myAdjective = \"big\";\nvar myVerb = \"ran\";\nvar myAdverb = \"quickly\";\n\nvar wordBlanks = \"Once there was a \" + myNoun + \" which was very \" + myAdjective + \". \";\nwordBlanks += \"It \" + myVerb + \" \" + myAdverb + \" around the yard.\";"
+}
