@@ -1,0 +1,3 @@
+{
+  "index.js": "// Example\nvar firstLetterOfFirstName = \"\";\nvar firstName = \"Ada\";\n\nfirstLetterOfFirstName = firstName[0];\n\n// Setup\nvar firstLetterOfLastName = \"\";\nvar lastName = \"Lovelace\";\n\n// Only change code below this line\nfirstLetterOfLastName = lastName[0];\n"
+}
