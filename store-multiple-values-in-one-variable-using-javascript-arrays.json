@@ -1,0 +1,3 @@
+{
+  "index.js": "\n\n// Example\nvar ourArray = [\"John\", 23];\n\n// Only change code below this line.\nvar myArray = [\"\", 8];\n"
+}
