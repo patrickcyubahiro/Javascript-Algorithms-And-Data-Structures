@@ -1,0 +1,3 @@
+{
+  "index.js": "// Example\nvar firstNameLength = 0;\nvar firstName = \"Ada\";\n\nfirstNameLength = firstName.length;\n\n// Setup\nvar lastNameLength = 0;\nvar lastName = \"Lovelace\";\n\n// Only change code below this line.\n\nlastNameLength = 8;\nlastNameLength = lastName.length;"
+}
