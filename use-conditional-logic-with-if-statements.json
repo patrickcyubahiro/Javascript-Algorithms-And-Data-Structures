@@ -1,0 +1,3 @@
+{
+  "index.js": "// Example\nfunction ourTrueOrFalse(isItTrue) {\n  if (isItTrue) { \n    return \"Yes, it's true\";\n  }\n  return \"No, it's false\";\n}\n\nfunction trueOrFalse(wasThatTrue) {\n  if (wasThatTrue) {\n    return \"Yes, that was true\";\n  }\n  return \"No, that was false\";\n\n}\n\nconsole.log(trueOrFalse(true));"
+}
