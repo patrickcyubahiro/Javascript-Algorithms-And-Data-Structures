@@ -1,0 +1,3 @@
+{
+  "index.js": "// Setup\nvar outerWear = \"T-Shirt\";\n\nfunction myOutfit() {\n  // Only change code below this line\n\nvar outerWear= \"sweater\";\n\n  // Only change code above this line\n  return outerWear;\n}\n\nmyOutfit();"
+}
