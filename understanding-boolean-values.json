@@ -1,0 +1,3 @@
+{
+  "index.js": "function welcomeToBooleans() \n{\n\n  // Only change code below this line.\n\n  return true; // Change this line\n\n  // Only change code above this line.\n}\n"
+}
