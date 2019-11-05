@@ -1,0 +1,3 @@
+{
+  "index.js": "function nextInLine(arr, item) {\n  // Your code here\n  arr.push(item);\n  return arr.shift(); \n}\n\nvar testArr = [1,2,3,4,5];\n\nconsole.log(\"Before: \" + JSON.stringify(testArr));\nconsole.log(nextInLine(testArr, 6));\nconsole.log(\"After: \" + JSON.stringify(testArr));"
+}
