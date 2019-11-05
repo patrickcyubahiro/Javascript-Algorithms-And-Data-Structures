@@ -1,0 +1,3 @@
+{
+  "index.js": "function myLocalScope() {\n  'use strict'; // you shouldn't need to edit this line\nvar myVar;\n  console.log(myVar);\n}\nmyLocalScope();\n\n// Run and check the console\n// myVar is not defined outside of myLocalScope\nconsole.log(myVar);\n\n// Now remove the console log line to pass the test\n"
+}
