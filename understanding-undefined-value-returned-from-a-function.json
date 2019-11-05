@@ -1,0 +1,3 @@
+{
+  "index.js": "// Example\nvar sum = 0;\nfunction addThree() {\n  sum = sum + 3;\n}\n\n// Only change code below this line\nfunction addFive ()\n{\n  sum = sum+5;\n}\n// Only change code above this line\naddThree();\naddFive();\n"
+}
