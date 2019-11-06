@@ -1,0 +1,3 @@
+{
+  "index.js": "function testLogicalOr(val) {\n  // Only change code below this line\n\n  if (val < 10 || val > 20 ) {\n    return \"Outside\";\n  }\n\n  // Only change code above this line\n  return \"Inside\";\n}\n\n// Change this value to test\ntestLogicalOr(15);"
+}
