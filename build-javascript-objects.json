@@ -1,0 +1,3 @@
+{
+  "index.js": "// Example\nvar ourDog = {\n  \"name\": \"Camper\",\n  \"legs\": 4,\n  \"tails\": 1,\n  \"friends\": [\"everything!\"]\n};\n\n// Only change code below this line.\n\nvar myDog = {\n  \"name\": \"Quincy\",\n  \"legs\": 3,\n  \"tails\": 2,\n  \"friends\": []\n};"
+}
