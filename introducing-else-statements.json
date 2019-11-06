@@ -1,0 +1,3 @@
+{
+  "index.js": "function testElse(val) {\n  var result = \"\";\n  // Only change code below this line\n  \n  if (val > 5) {\n    result = \"Bigger than 5\";\n  } else {\n    result = \"5 or Smaller\";\n  }\n  \n  // Only change code above this line\n  return result;\n}\n\n// Change this value to test\ntestElse(4);\n"
+}
