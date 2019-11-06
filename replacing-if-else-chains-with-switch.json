@@ -1,0 +1,3 @@
+{
+  "index.js": "function chainToSwitch(val) {\n  var answer = \"\";\n  // Only change code below this line\n  \n  switch(val) {\n    case \"bob\":\n      answer = \"Marley\";\n      break;\n    case 42:\n      answer = \"The Answer\";\n      break;\n    case 1:\n      answer = \"There is no #1\";\n      break;\n    case 99:\n      answer = \"Missed me by this much!\";\n      break;\n    case 7:\n      answer = \"Ate Nine\";\n      break;\n  }\n  \n  // Only change code above this line  \n  return answer;  \n}\n\n// Change this value to test\nchainToSwitch(7);\n"
+}
