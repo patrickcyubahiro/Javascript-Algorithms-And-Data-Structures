@@ -1,0 +1,3 @@
+{
+  "index.js": "function isLess(a, b) {\n  // Fix this code\n  return a < b;\n}\n\n// Change these values to test\nconsole.log(isLess(20, 15));"
+}
