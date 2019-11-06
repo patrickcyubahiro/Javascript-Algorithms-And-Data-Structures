@@ -1,0 +1,3 @@
+{
+  "index.js": "function caseInSwitch(val) {\n  var answer = \"\";\n  switch(val) {\n    case 1:\n      answer = \"alpha\";\n      break;\n    case 2:\n      answer = \"beta\";\n      break;\n    case 3:\n      answer = \"gamma\";\n      break;\n    case 4:\n      answer = \"delta\";\n      break;\n  }\n\n  return answer;  \n}\n\n// Change this value to test\nconsole.log(caseInSwitch(2));\n\n/*\nWrite a switch statement which tests val and sets answer for the following conditions:\n1 - \"alpha\"\n2 - \"beta\"\n3 - \"gamma\"\n4 - \"delta\"\n*/"
+}
