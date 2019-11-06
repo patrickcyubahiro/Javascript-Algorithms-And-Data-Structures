@@ -1,0 +1,3 @@
+{
+  "index.js": "// Setup\nfunction abTest(a, b) {\n  // Only change code below this line\n  \n  if (a < 0 || b < 0) {\n    return undefined;\n  }\n  \n  \n  // Only change code above this line\n\n  return Math.round(Math.pow(Math.sqrt(a) + Math.sqrt(b), 2));\n}\n\n// Change values below to test your code\nconsole.log(abTest(-2,2));"
+}
