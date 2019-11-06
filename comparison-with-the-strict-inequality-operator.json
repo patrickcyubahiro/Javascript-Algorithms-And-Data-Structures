@@ -1,0 +1,3 @@
+{
+  "index.js": "0// Setup\nfunction testStrictNotEqual(val) {\n  if (val!==17) { // Change this line\n    return \"Not Equal\";\n  }\n  return \"Equal\";\n}\n\n// Change this value to test\ntestStrictNotEqual(10);\n"
+}
