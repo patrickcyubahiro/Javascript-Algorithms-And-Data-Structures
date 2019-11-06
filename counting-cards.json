@@ -1,0 +1,3 @@
+{
+  "index.js": "var count = 0;\n\nfunction cc(card) {\n  switch(card) {\n    case 2:\n    case 3:\n    case 4:\n    case 5:\n    case 6:\n      count++;\n      break;\n    case 10:\n    case \"J\":\n    case \"Q\":\n    case \"K\":\n    case \"A\":\n      count--;\n      break;\n  }\n\n  var holdbet = 'Hold';\n  if (count > 0) {\n    holdbet = 'Bet';\n  }\n\n  return count + \" \" + holdbet;\n\n}\n\n\ncc(2); cc('K'); cc(10); cc('K'); cc('A');\nconsole.log(cc(4))"
+}
