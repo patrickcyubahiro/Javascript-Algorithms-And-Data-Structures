@@ -1,0 +1,3 @@
+{
+  "index.js": "function testSize(num) {\n  if (num < 5) {\n    return \"Tiny\";\n  } else if (num < 10) {\n    return \"Small\";\n  } else if (num < 15) {\n    return \"Medium\";\n  } else if (num < 20) {\n    return \"Large\";\n  } else {\n    return \"Huge\";\n  }\n}\n\nconsole.log(testSize(20));\n\n/*\nWrite chained if/else if statements to fulfill the following conditions:\n\nnum < 5 - return \"Tiny\"\nnum < 10 - return \"Small\"\nnum < 15 - return \"Medium\"\nnum < 20 - return \"Large\"\nnum >= 20 - return \"Huge\"\n*/"
+}
