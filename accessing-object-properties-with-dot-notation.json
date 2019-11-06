@@ -1,0 +1,3 @@
+{
+  "index.js": "// Setup\nvar testObj = {\n  \"hat\": \"ballcap\",\n  \"shirt\": \"jersey\",\n  \"shoes\": \"cleats\"\n};\n\n// Only change code below this line\n\nvar hatValue = testObj;      // Change this line\nvar shirtValue = testObj;    // Change this line\n\n\n// Setup\nvar testObj = {\n  \"hat\": \"ballcap\",\n  \"shirt\": \"jersey\",\n  \"shoes\": \"cleats\"\n};\n\n// Only change code below this line\n\nvar hatValue = testObj.hat;      // Change this line\nvar shirtValue = testObj.shirt;    // Change this line"
+}
