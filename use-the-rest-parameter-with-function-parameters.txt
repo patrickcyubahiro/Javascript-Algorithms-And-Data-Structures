@@ -1,0 +1,9 @@
+const sum = (...args) => {
+return args.length > 0 ? args.reduce((num, i) => num+=i) : 0
+// num is accumulator, i is the number.
+}
+console.log(sum(2,3,4)); 
+// X, The sum function uses [should use]  the ... spread operator on the args parameter.
+
+
+
