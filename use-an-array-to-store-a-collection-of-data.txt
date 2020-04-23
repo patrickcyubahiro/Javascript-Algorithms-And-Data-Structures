@@ -1,0 +1,1 @@
+let yourArray = ["AND",2,undefined,true,"",""]; // Change this line
