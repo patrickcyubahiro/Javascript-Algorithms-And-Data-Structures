@@ -1,0 +1,8 @@
+function House(numBedrooms) {
+  this.numBedrooms = 10;
+}
+
+// Only change code below this line
+let myHouse = new House();
+
+myHouse instanceof House;
